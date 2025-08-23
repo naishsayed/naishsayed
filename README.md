@@ -10,8 +10,7 @@
 - 🖥️ Interested in **Web Development, Software Development, Game Development, VFX Designing, Ethical Hacking & Cyber Security**  
 - 📚 Currently learning **Python, C, C++, Java, HTML, CSS**  
 - 🚀 Passionate about building projects that combine **creativity and technology**  
-- 😄 Also known as **White Devil**  
-- ⚡ Fun fact: *I’m not funny… not at all 😅*  
+- 😄 Also known as **White Devil**
 
 ---
 
