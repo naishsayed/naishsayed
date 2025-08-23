@@ -5,7 +5,7 @@
 ---
 
 ## 🚀 About Me  
-🎓 I’m currently pursuing a **B.Tech in Computer Science and Engineering (Artificial Intelligence & Machine Learning)**.  
+🎓 I’m currently pursuing a **B.E in Computer Science and Engineering (Artificial Intelligence & Machine Learning)**.  
 💡 Passionate about creating impactful **websites, software, and games**, while exploring **VFX, Ethical Hacking, and Cyber Security**.  
 🌱 Constantly improving my skills in **Python, C, C++, Java, HTML, CSS** and diving deeper into **AI-driven applications**.  
 ⚡ Curious, adaptive, and driven by the idea of building technology that makes life better.  
