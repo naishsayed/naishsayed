@@ -4,33 +4,42 @@
 
 ---
 
-## 🚀 About Me  
-🎓 I’m currently pursuing a **B.E in Computer Science and Engineering (Artificial Intelligence & Machine Learning)**.  
-💡 Passionate about creating impactful **websites, software, and games**, while exploring **VFX, Ethical Hacking, and Cyber Security**.  
-🌱 Constantly improving my skills in **Python, C, C++, Java, HTML, CSS** and diving deeper into **AI-driven applications**.  
-⚡ Curious, adaptive, and driven by the idea of building technology that makes life better.  
-😄 Also known as **White Devil**.  
+## 🧑‍💻 About Me  
+
+- 🌟 Pursuing **B.E in Computer Science & Engineering (AI & ML)**  
+- 🖥️ Interested in **Web Development, Software Development, Game Development, VFX Designing, Ethical Hacking & Cyber Security**  
+- 📚 Currently learning **Python, C, C++, Java, HTML, CSS**  
+- 🚀 Passionate about building projects that combine **creativity and technology**  
+- 😄 Also known as **White Devil**  
+- ⚡ Fun fact: *I’m not funny… not at all 😅*  
 
 ---
 
-## 🛠️ Skills & Tools  
+## 🌐 Socials  
 
 <p align="center">
+  <a href="https://www.instagram.com/naish__sayed" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/naish-sayed" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
-### 💻 Languages  
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> 
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/> 
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/> 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> 
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>  
+---
 
-### 🛠 Tools & Tech  
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> 
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> 
-<img src="https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>  
+## 🛠️ Tech Stack  
 
+<p align="center">
+  <img src="https://img.icons8.com/color/48/000000/html-5.png"/>
+  <img src="https://img.icons8.com/color/48/000000/css3.png"/>
+  <img src="https://img.icons8.com/color/48/000000/python.png"/>
+  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
+  <img src="https://img.icons8.com/color/48/000000/c-programming.png"/>
+  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
+  <img src="https://img.icons8.com/color/48/000000/github.png"/>
+  <img src="https://img.icons8.com/color/48/000000/figma.png"/>
+  <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
 </p>
 
 ---
@@ -41,19 +50,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=naishsayed&show_icons=true&theme=radical" alt="GitHub stats" height="160"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=naishsayed&theme=radical" alt="GitHub Streak" height="160"/>
 </p>
-
----
-
-## 🌐 Connect With Me  
-
-<p align="center">
-  <a href="https://www.instagram.com/naish__sayed" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" />
-  </a>
-  <a href="https://www.linkedin.com/in/naish-sayed" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" />
-  </a>
-</p>  
 
 ---
 
