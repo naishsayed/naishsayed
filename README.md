@@ -1,85 +1,138 @@
-# 👋 Hey, I'm Naish Sayed  
+# 👋 Hey, I'm Naish Sayed
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C4FF&center=true&vCenter=true&width=500&lines=Frontend+Developer;AI+%26+ML+Enthusiast;Software+Developer;Cyber+Security+Learner;Game+Development+Explorer)](https://git.io/typing-svg)
-
----
-
-## 🧑‍💻 About Me  
-
-- 🎓 Pursuing **B.E in Computer Science & Engineering (AI & ML)**  
-- 💡 Interested in **Web Development, Software Development, Game Development, VFX Designing, Ethical Hacking & Cyber Security**  
-- 🧠 Currently learning **Python, C, C++, Java, HTML, CSS**  
-- 🚀 Passionate about building projects that combine **creativity and technology**  
-- 😄 Also known as **White Devil**
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code\&pause=1000\&color=00C4FF\&center=true\&vCenter=true\&width=600\&lines=Aspiring+Data+Scientist;AI+%26+Machine+Learning+Student;Python+Developer;Data+Analytics+Enthusiast;Always+Learning+Something+New)](https://git.io/typing-svg)
 
 ---
 
-## 🌐 Connect With Me  
+## 🧑‍💻 About Me
+
+* 🎓 Pursuing **B.E. in Computer Science & Engineering (Artificial Intelligence & Machine Learning)**
+* 📊 Passionate about **Data Science, Machine Learning, and Data Analytics**
+* 🐍 Currently mastering **Python** and building a strong programming foundation
+* 📚 Currently learning **Recursion, Sets, Dictionaries, OOP**, and preparing to dive into **NumPy, Pandas, Matplotlib & Scikit-Learn**
+* 🚀 Working towards becoming a **Data Scientist**
+* 💻 I enjoy solving programming problems and building real-world projects while continuously improving my coding skills.
+
+---
+
+## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.instagram.com/naish__sayed" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/naish-sayed" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+
+<a href="mailto:sayednaish@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/naish-sayed" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/naish__sayed" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://wa.me/91YOURNUMBER" target="_blank">
+<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</a>
+
 </p>
 
 ---
 
-## 🛠️ Tech Stack  
+## 🛠️ Tech Stack
+
+### Programming Languages
 
 <p align="center">
-  <img src="https://img.icons8.com/color/48/html-5.png" alt="HTML5"/>
-  <img src="https://img.icons8.com/color/48/css3.png" alt="CSS3"/>
-  <img src="https://img.icons8.com/color/48/python.png" alt="Python"/>
-  <img src="https://img.icons8.com/color/48/java-coffee-cup-logo.png" alt="Java"/>
-  <img src="https://img.icons8.com/color/48/c-programming.png" alt="C"/>
-  <img src="https://img.icons8.com/color/48/c-plus-plus-logo.png" alt="C++"/>
-  <img src="https://img.icons8.com/color/48/github.png" alt="GitHub"/>
-  <img src="https://img.icons8.com/color/48/figma.png" alt="Figma"/>
-  <img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="VS Code"/>
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,html,css" />
+</p>
+
+### Data Science & Machine Learning
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=anaconda" />
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+
+</p>
+
+### Tools & Technologies
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma"/>
+
 </p>
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=naishsayed&show_icons=true&theme=radical" alt="Naish Sayed's GitHub stats" height="160" />
-  <img src="https://streak-stats.demolab.com/?user=naishsayed&theme=radical" alt="GitHub Streak" height="160" />
+<img src="https://github-readme-stats.vercel.app/api?username=naishsayed&show_icons=true&theme=radical" height="160"/>
+<img src="https://streak-stats.demolab.com/?user=naishsayed&theme=radical" height="160"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naishsayed&layout=compact&theme=radical" alt="Top Languages" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naishsayed&layout=compact&theme=radical" height="160"/>
 </p>
 
 ---
 
-## 🚀 Featured Projects  
+## 🚀 Featured Projects
 
-| Project | Description | Link |
-|:---|:---|:---:|
-| **Weather App** | A responsive web app showing real-time weather data using APIs. | [View Repo](https://github.com/naishsayed) |
-| **Age Calculator** | Calculates user age dynamically based on birth date input. | [View Repo](https://github.com/naishsayed) |
-| **QR Code Generator** | Simple yet powerful tool to generate QR codes for text/links. | [View Repo](https://github.com/naishsayed) |
-| **Castle Defender Game (Python)** | A fun castle defense game built with Python. | [View Repo](https://github.com/naishsayed) |
-| **RPG Battle Game (Python)** | Turn-based RPG game created using object-oriented Python. | [View Repo](https://github.com/naishsayed) |
+> 🚧 Coming Soon...
+>
+> I'm currently working on expanding my portfolio with projects focused on **Data Science, Machine Learning, and Python**.
 
 ---
 
-## 🧩 Currently Exploring  
+## 📖 Currently Learning
 
-- 🤖 **AI & Machine Learning** (Neural Networks, Data Analysis)  
-- 🎮 **Game Development** using Pygame  
-- 🕵️ **Cybersecurity** & Ethical Hacking Challenges  
-- 🧱 **UI/UX Designing** using Figma and Canva  
+* 🐍 Advanced Python
+* 📊 Data Structures & Algorithms (Python)
+* 📈 NumPy
+* 🐼 Pandas
+* 📉 Matplotlib & Seaborn
+* 🤖 Machine Learning
+* 🗄️ SQL
+* 📊 Power BI
 
 ---
 
-## ✨ Quote of the Day  
-> “The best way to predict the future is to create it.”  
+## 🎯 2026 Goals
+
+* ✅ Master Python
+* ✅ Learn Data Analysis
+* ✅ Build 5+ Data Science Projects
+* ✅ Secure a Data Science Internship
+* ✅ Contribute to Open Source
+* ✅ Become Placement Ready
 
 ---
 
-⭐️ From [Naish Sayed](https://github.com/naishsayed)
+## 💭 Quote
+
+> *"Consistency beats intensity. Small improvements every day lead to extraordinary results."*
+
+---
+
+⭐️ From **Naish Sayed**
